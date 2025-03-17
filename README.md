@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-gamma-ivory-53.vercel.app)/api?username=fadilsflow&show_icons=true&theme=radical)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-gamma-ivory-53.vercel.app/api?username=fadilsflow" />
 </a>
@@ -7,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats-gamma-ivory-53.vercel.app/api/top-langs?username=fadilsflow&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-gamma-ivory-53.vercel.app)/api?username=fadilsflow&show_icons=true&theme=radical)
+
 <!--
 **fadilsflow/fadilsflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
