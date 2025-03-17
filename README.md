@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats-gamma-ivory-53.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-gamma-ivory-53.vercel.app/api?username=fadilsflow&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-gamma-ivory-53.vercel.app/api?username=fadilsflow" />
