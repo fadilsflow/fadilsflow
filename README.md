@@ -3,4 +3,4 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadilsflow&hide=java,python)
 
 
-![Streak](https://streak-stats.demolab.com?user=fadilsflow&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=fadilsflow)
