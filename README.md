@@ -6,3 +6,4 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 ## **Technical Skills**  
 [![My Skills](https://skillicons.dev/icons?i=linux,ts,tailwind,react,next,expressjs,nodejs,bun,supabase,docker,postgresql,md,git,vim,vscode&perline=15)](#)
 
+![Visitor Count](https://profile-counter.glitch.me/fadilsflow/count.svg)
